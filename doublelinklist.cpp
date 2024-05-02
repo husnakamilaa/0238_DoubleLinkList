@@ -13,6 +13,6 @@ struct Node
 Node * START = NULL;
 
 void addNode() {
-    
+    Node * newNode = new Node (); //step 1 crate a new node
 }
 
